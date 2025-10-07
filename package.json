@@ -8,6 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^1.12.2",
+    "form-data": "^4.0.4",
     "multer": "^2.0.2",
     "next": "15.5.4",
     "openai": "^6.2.0",
